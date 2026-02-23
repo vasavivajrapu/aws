@@ -1,11 +1,10 @@
 # aws
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## Introduction to AWS
-what is private and public cloud.
-Why companies are moving to public cloud
-what are the advantages of moving to cloud.
-Introduction to the basics of AWS, including the core services and their significance in DevOps practices.
-How to set up an AWS account and navigate the AWS Management Console.
+* Why companies are moving to public cloud
+* What are the advantages of moving to cloud.
+* Introduction to the basics of AWS, including the core services and their significance in DevOps practices.
+* How to set up an AWS account and navigate the AWS Management Console.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## IAM (Identity and Access Management)
